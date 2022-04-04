@@ -71,7 +71,7 @@ Before we takle these topics lets figure out if it even matters!
 
 Here @Peter Cacioppi delivers what is in recent times to most expressive answer!
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6912093442483380224" allowfullscreen="" title="Embedded post" width="504" height="500" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6912093442483380224" allowfullscreen="" title="Embedded post" width="100%" height="500" frameborder="0" scrolling="no"></iframe>
 
 ## Community
 
@@ -80,19 +80,19 @@ Here @Peter Cacioppi delivers what is in recent times to most expressive answer!
 
 #### JUMP v1.0
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6912836592311115776" allowfullscreen="" title="Embedded post" width="504" height="398" frameborder="0"></iframe>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6912836592311115776" allowfullscreen="" title="Embedded post" width="100%" height="398" frameborder="0" scrolling="no"></iframe>
 
 #### Highs seeks funding to take it to the next level
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6915211148581605376" allowfullscreen="" title="Embedded post" width="504" height="1154" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6915211148581605376" allowfullscreen="" title="Embedded post" width="100%" height="1154" frameborder="0" scrolling="no"></iframe>
 
 #### Google releases new Open Source solver PDLP
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6913143867521282048" allowfullscreen="" title="Embedded post" width="504" height="800" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6913143867521282048" allowfullscreen="" title="Embedded post" width="100%" height="800" frameborder="0" scrolling="no"></iframe>
 
 ### Google productized route planning
 
-https://www.zdnet.com/article/googles-new-tools-should-help-your-packages-arrive-on-time/?utm_campaign=60468e1e83b1470001448049&utm_content=62386b8375145100011f0ffd&utm_medium=smarpshare&utm_source=linkedin
+[link](https://www.zdnet.com/article/googles-new-tools-should-help-your-packages-arrive-on-time)
 
 
 #### Upcoming:
