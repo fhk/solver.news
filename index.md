@@ -93,7 +93,11 @@ Lets looks for content and new ventures/acquistions.
 
 Google Trends doesnt seem like the right tool to gauge the market interest as when we look for the above areas not much registers.
 
-So lets try
+So lets try news publications using [Google Search](https://www.google.com/search?q=%22operations+research%22&client=firefox-b-1-d&channel=nus5&tbm=nws&tbas=0&source=lnt&sa=X&ved=2ahUKEwjWtb3e_4L3AhXRPn0KHQyiASgQpwV6BAgBEBQ&tbas=0&biw=1728&bih=994&dpr=2).
+
+This yields ~22,300 results. Whereas "deep learning" returns 528,000 results. Business analytics comes in at 137,000.
+
+Given this can we also look at how the $$$ are flowing, are there many funding rounds? acquistions? partnership deals? This is left open for further discussion. Though a typical approach can be "solver inside" like [o9 solutions + Gurobi](https://o9solutions.com/news/o9-partners-with-gurobi/). One idea would be to construct a timeline from the orgination of simplex.
 
 ### Conversations
 
@@ -107,6 +111,8 @@ Most recently I've had numerous conversations along the following lines:
 Before we takle these topics lets figure out if it even matters!
 
 Here @Peter Cacioppi delivers what is in recent times to most expressive answer!
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6912093442483380224" allowfullscreen="" title="Embedded post" width="100%" height="500" frameborder="0" scrolling="no"></iframe>
 
 To better inform the decisions lets also look at:
 
@@ -124,6 +130,8 @@ There are a few SaaS like solutions and this is an interesting space in that it 
 
 [Cassotis](https://www.cassotis.com/)
 
+[MOOPT](https://moopt.com/)
+
 
 ##### Cloud
 
@@ -140,7 +148,6 @@ One of the most current workflows is to
 
 #### Customer support and implementation
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6912093442483380224" allowfullscreen="" title="Embedded post" width="100%" height="500" frameborder="0" scrolling="no"></iframe>
 
 ## Community
 
@@ -159,10 +166,14 @@ One of the most current workflows is to
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6913143867521282048" allowfullscreen="" title="Embedded post" width="100%" height="800" frameborder="0" scrolling="no"></iframe>
 
-### Google productized route planning
+#### Google productized route planning
 
 [link](https://www.zdnet.com/article/googles-new-tools-should-help-your-packages-arrive-on-time)
 
+
+#### Gurobi release v2 of log tools
+
+https://github.com/Gurobi/grblogtools/tree/v2.0.0
 
 #### Upcoming:
 
@@ -172,7 +183,7 @@ One of the most current workflows is to
 
 #### Optimal Bookshop
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6913620540561723393" allowfullscreen="" title="Embedded post" width="504" height="784" frameborder="0"></iframe>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6913620540561723393" allowfullscreen="" title="Embedded post" width="504" height="784" frameborder="0" scrolling="no"></iframe>
 
 
 ## Project Example
