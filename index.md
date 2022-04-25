@@ -114,9 +114,15 @@ Here @Peter Cacioppi delivers what is in recent times to most expressive answer!
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6912093442483380224" allowfullscreen="" title="Embedded post" width="100%" height="500" frameborder="0" scrolling="no"></iframe>
 
+Further there is an ongoing dicussion on HackerNews - [here](https://news.ycombinator.com/item?id=31099186).
+
+This provides some great history and the discussion and listing of solvers is valuable.
+
 To better inform the decisions lets also look at:
 
 #### Commercial models and Costs
+
+I will update this as I can, please feel free to add via GitHub PR.
 
 ##### SaaS
 
@@ -135,24 +141,63 @@ There are a few SaaS like solutions and this is an interesting space in that it 
 
 ##### Cloud
 
+Many of the below server license companies have cloud offerings too.
+
+The only "cloud" focussed company I have come across is [NextMv](https://www.nextmv.io/)
+
 ##### Server License
+
+Local Solver
+
+XPress
+
+CPLEX
+
+Gurobi
+
+HiGHs
+
+SCIP
+
+?Flowty?
 
 ##### Floating License
 
+Gurobi
+
 ##### Golden Disk/Unlimited usage/deployment/cores
+
+This is important as many of the commercial solvers restrict this.
+
+You can get better solutions faster in theory. But it can cost $$$,$$$.
 
 #### Do benchmarks even matter?
 
-One of the most current workflows is to 
+One of the most current workflows is to compare against the [benchmarks](http://plato.asu.edu/ftp/milp.html). 
 
+This lost traction due to Gurobi dominance but seems to be making a resurgence.
 
 #### Customer support and implementation
 
+Based on expereince different companies have different capacity and experience working with clients at different scales.
+
+These number work for both solver companies and buyers.
+
+1 - 10 
+
+11 - 50
+
+51 - 200
+
+201 +
 
 ## Community
 
-### Launches/Conferences/Webinars/Courses et al.
+The or-tools mailing list is quite active - or-tools-discuss@googlegroups.com
 
+There is a dedicated stackexchange for OR - https://or.stackexchange.com/
+
+### Launches/Conferences/Webinars/Courses et al.
 
 #### JUMP v1.0
 
@@ -170,7 +215,6 @@ One of the most current workflows is to
 
 [link](https://www.zdnet.com/article/googles-new-tools-should-help-your-packages-arrive-on-time)
 
-
 #### Gurobi release v2 of log tools
 
 https://github.com/Gurobi/grblogtools/tree/v2.0.0
@@ -178,8 +222,6 @@ https://github.com/Gurobi/grblogtools/tree/v2.0.0
 #### Upcoming:
 
 #### Archive:
-
-
 
 #### Optimal Bookshop
 
