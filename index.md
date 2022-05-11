@@ -69,7 +69,7 @@ The only report I have been able to find is [this one](https://cdn2.hubspot.net/
 
 Also the key ingredient price and licensing are not covered in detail. This has been one of the biggest changes in recent years. On top of this there is also now more fragmentation in the market with users adopting open source solvers and building their own for their usecase. Plus a number of new market entrants. One thing to note is there hasn't been a level of development on the scale of Tensorflow/Pytorch in open source. This might be possible in the future, perhaps there might even be unification of these AI/ML frameworks and optimzation. 
 
-Back to the $$$, the total spend in my mind is over a Billion dollars. Why? It's not just the license cost, you have to build the tooling and integrations around it. Not to mention the userbase for such solutions. Hopefully, some of the future discussions can shed more light onto what the actual market spend is. Oh and the hardward to run it all! There are even companies building custom hardware with [optimization baked in](https://synccomputing.com/).
+Back to the $$$, the total spend in my mind is over a Billion dollars. Why? It's not just the license cost, you have to build the tooling and integrations around it. Not to mention the userbase for such solutions. Hopefully, some of the future discussions can shed more light onto what the actual market spend is. Oh and the hardware to run it all! There are even companies building custom hardware with [optimization baked in](https://synccomputing.com/).
 
 ### Creating a Industry index
 
