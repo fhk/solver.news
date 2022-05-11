@@ -47,7 +47,7 @@ So this is purely an idea at the moment. If 10 (ten) people sign up I will write
 
 Due to popular demand there is now a slack channel!
 
-[https://join.slack.com/t/or-chat/shared_invite/zt-192d6ugtc-l4AGVb9YTMcxpHgIC0GKCA]
+[Join Slack Channel](https://join.slack.com/t/or-chat/shared_invite/zt-192d6ugtc-l4AGVb9YTMcxpHgIC0GKCA)
 
 or-chat.slack.com
 
@@ -204,9 +204,9 @@ One of the most current workflows is to compare against the [benchmarks](http://
 
 This lost traction due to Gurobi dominance but seems to be making a resurgence.
 
-[http://plato.asu.edu/bench.html]
+[http://plato.asu.edu/bench.html](http://plato.asu.edu/bench.html)
 
-[https://mattmilten.github.io/mittelmann-plots/]
+[https://mattmilten.github.io/mittelmann-plots/](https://mattmilten.github.io/mittelmann-plots/)
 
 #### Customer support and implementation
 
@@ -224,7 +224,9 @@ These number work for both solver companies and buyers.
 
 ## Community
 
-There is a dedicated stackexchange for OR - [https://or.stackexchange.com/]
+[INFORMS](https://www.informs.org/)
+
+There is a dedicated stackexchange for OR - [https://or.stackexchange.com/](https://or.stackexchange.com/)
 
 New slack channel! or-chat.slack.com
 
@@ -250,7 +252,7 @@ Recent posts on HackerNews also show some momentum.
 
 #### Gurobi release v2 of log tools
 
-[https://github.com/Gurobi/grblogtools/tree/v2.0.0]
+[Gurobi log tools](https://github.com/Gurobi/grblogtools/tree/v2.0.0)
 
 #### Upcoming:
 
@@ -268,11 +270,11 @@ Recent posts on HackerNews also show some momentum.
 
 I'm going to cheat this time and share a WASM post I wrote and presented some time ago. Why? I really think that client side solving will become something!
 
-[https://gist.github.com/fhk/0aba10a289a5e6b253fb2abf268469ac]
+[https://gist.github.com/fhk/0aba10a289a5e6b253fb2abf268469ac](https://gist.github.com/fhk/0aba10a289a5e6b253fb2abf268469ac)
 
 Further there are many more projects in the works.
 
-[https://github.com/centrifuge/clp-wasm]
+[https://github.com/centrifuge/clp-wasm](https://github.com/centrifuge/clp-wasm)
 
 Perhaps this year we will see a commerical solver on WASM in the browser or desktop!?
 
