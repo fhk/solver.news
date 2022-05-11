@@ -8,7 +8,6 @@ Exploring the creation, usage and adoption of solvers, soft/middle-ware, bespoke
 
 So this is purely an idea at the moment. If 10 (ten) people sign up I will write the next one and make some improvements to the content :) Or perhaps people will just make PRs and this can continue to live... Or perhaps this is better on some kind of mailing list?
 
-
 <div>
 	<!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7_dtp.css" rel="stylesheet" type="text/css">
@@ -44,6 +43,11 @@ So this is purely an idea at the moment. If 10 (ten) people sign up I will write
 </div>
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
+
+
+Due to popular demand there is now a slack channel! https://join.slack.com/t/or-chat/shared_invite/zt-192d6ugtc-l4AGVb9YTMcxpHgIC0GKCA
+
+or-chat.slack.com
 
 ## All paths lead to ~~Rome~~ **Solvers**
 
@@ -138,7 +142,6 @@ There are a few SaaS like solutions and this is an interesting space in that it 
 
 [MOOPT](https://moopt.com/)
 
-
 ##### Cloud
 
 Many of the below server license companies have cloud offerings too.
@@ -147,23 +150,45 @@ The only "cloud" focussed company I have come across is [NextMv](https://www.nex
 
 ##### Server License
 
-Local Solver
+[Local Solver](https://www.localsolver.com/)* Also has API for Cloud compute via SDK
 
-XPress
+Unique product with favourable licensing for deployment "Golden Disk" pay once.
 
-CPLEX
+[XPress](https://www.fico.com/en/products/fico-xpress-optimization)
 
-Gurobi
+Many flavours including hosted full fledged ?app?
 
-HiGHs
+[CPLEX](https://www.ibm.com/analytics/cplex-optimizer)
 
-SCIP
+I like the $200 per month [developer license.](https://www.ibm.com/products/ilog-cplex-optimization-studio/pricing)
 
-?Flowty?
+[Gurobi](https://www.gurobi.com/)
+
+The default choice but can be expensive
+
+[HiGHs](https://www.maths.ed.ac.uk/hall/HiGHS/)
+
+A leading open source project just starting to ramp up, you can help [fund it too!](https://crowdfunding.lfx.linuxfoundation.org/projects/9b777a28-c660-4490-ad00-fa314a731515) 
+
+[SCIP](https://www.scipopt.org/)
+
+Unique model of open source with commerical model, great for custom things
+
+[Flowty](https://flowty.ai/)
+
+New on the block and has a nice Python SDK
+
+[Octertact](https://octeract.com/)
+
+Gaining traction and has a interesting idea of a [reformulator](https://github.com/Octeract/reformulator)
+
+[OR-Tools](https://developers.google.com/optimization)
+
+Great examples plus docs, new solver recently and support via [email list](or-tools-discuss@googlegroups.com) is great.
 
 ##### Floating License
 
-Gurobi
+Gurobi has a option to share a license across multiple machines
 
 ##### Golden Disk/Unlimited usage/deployment/cores
 
@@ -176,6 +201,10 @@ You can get better solutions faster in theory. But it can cost $$$,$$$.
 One of the most current workflows is to compare against the [benchmarks](http://plato.asu.edu/ftp/milp.html). 
 
 This lost traction due to Gurobi dominance but seems to be making a resurgence.
+
+http://plato.asu.edu/bench.html
+
+https://mattmilten.github.io/mittelmann-plots/
 
 #### Customer support and implementation
 
@@ -193,9 +222,11 @@ These number work for both solver companies and buyers.
 
 ## Community
 
-The or-tools mailing list is quite active - or-tools-discuss@googlegroups.com
-
 There is a dedicated stackexchange for OR - https://or.stackexchange.com/
+
+New slack channel! or-chat.slack.com
+
+Recent posts on HackerNews also show some momentum.
 
 ### Launches/Conferences/Webinars/Courses et al.
 
@@ -221,12 +252,15 @@ https://github.com/Gurobi/grblogtools/tree/v2.0.0
 
 #### Upcoming:
 
+???Future???
+
 #### Archive:
+
+???Future???
 
 #### Optimal Bookshop
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6913620540561723393" allowfullscreen="" title="Embedded post" width="504" height="784" frameborder="0" scrolling="no"></iframe>
-
 
 ## Project Example
 
@@ -246,6 +280,6 @@ Next up I might share a complete C++ example using or-tools as I also believe th
 
 #TODO
 
-Comments:
+## Comments:
 
 #TODO
